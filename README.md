@@ -2,7 +2,7 @@
 
 ## **MOD 01**
 
-**SUBJECT INDEX** <a name="index"></a>
+**SUBJECT INDEX** <a name="index01"></a>
 
 [Hello (Canvas) World](#helloWorld)    
 [What's my Function](#myFunction)  
@@ -105,7 +105,7 @@ The results on the right tell us at least these things:
 
 ----
 
-[Back to Top](#index)
+[Back to Top](#index01)
 
 ----
 
@@ -154,7 +154,7 @@ It could be a face, a rainbow, a flower...
 
 ----
 
-[Back to Top](#index)
+[Back to Top](#index01)
 
 ----
 
@@ -238,7 +238,7 @@ _What happens to my ellipse?_
 
 ----
 
-[Back to Top](#index)
+[Back to Top](#index01)
 
 ----
 
@@ -294,22 +294,24 @@ Or, you know, anything
 
 ----
 
-[Back to Top](#index)
+[Back to Top](#index01)
 
 ----
 
 ----
+
+
 
 ## **MOD 02**
 
-**SUBJECT INDEX** <a name="index"></a>
+**SUBJECT INDEX** <a name="index02"></a>
 
-[Fully Functional](#fullFunction)    
-[What's Bugging You?](#whatBug)  
-[Some Consolation](#consolation)  
-[Smooth Operator](#booleans)  
-[Or Else!](#orElse)  
-[Inputtin](#input)  
+[Fully Functional](#fullFunction)  
+[What's Bugging You?](#whatBug)
+[Some Consolation](#consolation)
+[Smooth Operator](#booleans)
+[Or Else!](#orElse) 
+[Inputtin](#input)
 
 ----
 
@@ -345,7 +347,7 @@ BONUS POINT: If I say _"make all the flower centers (or eye colors or whatever e
 
 ----
 
-[Back to Top](#index)
+[Back to Top](#index02)
 
 ----
 
@@ -392,7 +394,7 @@ If you haven't already done all the previous steps, you're not ready for this st
 
 ----
 
-[Back to Top](#index)
+[Back to Top](#index02)
 
 ----
 
@@ -436,7 +438,7 @@ I've created the `isGradeA` variable and assigned it a test:
 
 ----
 
-[Back to Top](#index)
+[Back to Top](#index02)
 
 ----
 
@@ -496,7 +498,7 @@ Values like 0, '' (empty string), and undefined are “falsy” and convert to f
 
 ----
 
-[Back to Top](#index)
+[Back to Top](#index02)
 
 ----
 
@@ -540,9 +542,15 @@ https://editor.p5js.org/markbaldridge/sketches/ygH8fiIA0O
 
 ----
 
-[Back to Top](#index)
+[Back to Top](#index02)
 
 ----
 
 ----
+
+
+
+
+
+
 
