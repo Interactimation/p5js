@@ -306,12 +306,12 @@ Or, you know, anything
 
 **SUBJECT INDEX** <a name="index02"></a>
 
-[Fully Functional](#fullFunction)  
-[What's Bugging You?](#whatBug)
-[Some Consolation](#consolation)
-[Smooth Operator](#booleans)
-[Or Else!](#orElse) 
-[Inputtin](#input)
+[Fully Functional](#fullFunction)    
+[What's Bugging You?](#whatBug)  
+[Some Consolation](#consolation)  
+[Smooth Operator](#booleans)  
+[Or Else!](#orElse)  
+[Inputtin](#input)  
 
 ----
 
