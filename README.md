@@ -300,8 +300,6 @@ Or, you know, anything
 
 ----
 
-
-
 ## **MOD 02**
 
 **SUBJECT INDEX** <a name="index02"></a>
@@ -533,10 +531,10 @@ HINT: Check where the background ins being drawn -if we draw the background in t
 > **DID WE MENTION?:**  
 You can sign up with the p5.js editor (or sign in with GitHub) which will allow you to save and share your code  
 Here's the above, editable:
-https://editor.p5js.org/markbaldridge/sketches/ygH8fiIA0O
+https://editor.p5js.org/markbaldridge/sketches/D5fdILdK4
 
 > **CHEAT SHEET**  
-[This" Cheat Sheet shows some of the user inputs you can use](https://editor.p5js.org/markbaldridge/sketches/ygH8fiIA0O)
+[This "Cheat Sheet" shows some of the user inputs you can use](https://editor.p5js.org/markbaldridge/sketches/ygH8fiIA0O)
 
 (You'll probably have to click into the preview field to get responses from some things, like keyCode, etc)
 
@@ -547,10 +545,3 @@ https://editor.p5js.org/markbaldridge/sketches/ygH8fiIA0O
 ----
 
 ----
-
-
-
-
-
-
-
